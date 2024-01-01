@@ -1,21 +1,3 @@
-'''
-General comments: Superior coding and superior use of a table of functions! You
-should be very happy with your midterm coding.
-
-Rubric:
-1. Menu loop: ✅
-2. Menu processing: ✅
-3. Dictionary comprehension with zip(): ✅
-4. List comprehension or enumerate(): ✅
-5. Columns: ✅
-6. Output formatting: ✅
-7. Input validation for menu: ✅
-8. Input validation for medication number: ✅
-9. Input validation for no negative entries: ✅
-10. Input validation for preventing negative balance: ✅
-11. Output loop: ✅
-'''
-
 def main():
   medName = [
       "Asprin", "Tylenol", "Lipitor", "Prilosec", "Gloucophage", "Zocor",
